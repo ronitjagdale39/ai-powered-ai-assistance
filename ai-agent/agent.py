@@ -1,6 +1,5 @@
 import requests
 import os
-from commands import handle_command
 chat_history = []
 
 def ask_ai(prompt):
